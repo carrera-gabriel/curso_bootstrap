@@ -190,3 +190,58 @@ header, .navbar{
     margin-top: 20px;
 }
 
+/* Time */
+
+.card-body{
+    text-align: center;
+}
+
+/* Trabalhe conosco */
+
+#apply-area{
+    height: 500px;
+}
+
+#apply-area .container-fluid, #apply-area .row{
+    height: 100%;
+}
+
+#apply-area .apply-box{
+    text-align: center;
+    padding: 70px 50px;
+}
+
+#company-img{
+    background-image: url('../img/empresa.jpg');
+    background-size: cover;
+}
+
+#pattern-img h4, #pattern-img p{
+    color: #FFF;
+}
+
+#pattern-img h4{
+    margin-top: 8%;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+#pattern-img p{
+    margin-bottom: 20px;
+}
+
+#apply-btn{
+    display: block;
+    height: auto;
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    background-color: transparent;
+    border-color: #FFF;
+}
+
+#apply-btn:hover{
+    border-color: #65DAF9;
+    background-color: #65DAF9;
+}
