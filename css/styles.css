@@ -512,3 +512,28 @@ header, .navbar{
     }
 
 }
+
+@media(max-width: 425px){
+
+    /* slider */
+    #mainsSlider{
+        margin-top: 90px;
+    }
+
+    #mainSlider .carousel-caption{
+        top: 5%;
+    }
+
+    #mainSlider .carousel-caption h2{
+        font-size: 18px;
+        margin-bottom: 40px;
+    }
+
+    #mainSlider .carousel-caption p{
+        display: none;
+    }
+
+    /*  */
+
+
+}
