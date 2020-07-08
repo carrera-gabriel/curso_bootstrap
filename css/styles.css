@@ -516,7 +516,7 @@ header, .navbar{
 @media(max-width: 425px){
 
     /* slider */
-    #mainsSlider{
+    #mainSlider{
         margin-top: 90px;
     }
 
@@ -533,7 +533,76 @@ header, .navbar{
         display: none;
     }
 
-    /*  */
+    .carousel-caption .main-btn {
+        font-size: 14px;
+    }
+
+    /* about */
+    .main-title{
+        font-size: 30px;
+    }
+
+    #about-area img {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+
+    /* data */
+    .circle-box{
+        width: 50%;
+    }
+
+
+    /* team */
+    #team-area .col-md-3{
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    /* apply */
+    #apply-area{
+        height: auto;
+    }
+
+    #company-img{
+        display: none;
+    }
+
+    /* filter */
+    #portifolio-area .filter-btn{
+        margin-bottom: 20px;
+    }
+
+    .project-box{
+        width: 50%;
+    }
+
+    /* news */
+    #news-area .main-title{
+        font-size: 24px;
+    }
+
+    #news-area{
+        font-size: 16px ;
+    }
+
+    #email-input{
+        width: 80%;
+    }
+
+    /* cta */
+    #call-area, #call-area .main-btn{
+        font-size: 14px;
+        letter-spacing: 0;
+        margin: 0;
+        width: 50%;
+    }
+
+    /* contact */
+    .contact-box{
+       border: none; 
+       margin-bottom: 0;
+    }
 
 
 }
