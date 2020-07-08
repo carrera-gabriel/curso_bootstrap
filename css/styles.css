@@ -43,6 +43,7 @@ header, .navbar{
 
 #navbar-links a{
     color: #FFF;
+    cursor: pointer;
 }
 
 .navbar-expand-lg .navbar-nav .nav-link{
@@ -603,6 +604,5 @@ header, .navbar{
        border: none; 
        margin-bottom: 0;
     }
-
 
 }
